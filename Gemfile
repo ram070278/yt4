@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'yt', '~> 0.13.7'
-gem 'bootstrap-sass', '~> 3.3.0.1'
+gem 'bootstrap-sass', '>= 3.4.1'
 gem 'autoprefixer-rails'
 gem 'rails-observers'
 
